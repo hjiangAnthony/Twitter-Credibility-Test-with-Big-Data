@@ -14,3 +14,4 @@
 
 ## Preview
 **Filtering & Cleanup**: We intentionally control the number of filtered tweets (about 7.4 million) by filtering topics such as **racial equality, literacy, tech & digital, special need, school curriculum, higher education** to see if the tweet reflect the trending real-world online discussion*. Also, only tweets in English (`lang=’en’`) are considered
+1
